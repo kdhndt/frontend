@@ -1,0 +1,101 @@
+{
+  "_embedded": {
+    "filiaalIdNaamList": [
+      {
+        "id": 2,
+        "naam": "Haai",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/2"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "naam": "Gavdos",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/3"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "naam": "Nieuwe naam",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/4"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "naam": "Ikaria",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/5"
+          }
+        }
+      },
+      {
+        "id": 6,
+        "naam": "Oinouses",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/6"
+          }
+        }
+      },
+      {
+        "id": 7,
+        "naam": "Nieuw filiaal",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/7"
+          }
+        }
+      },
+      {
+        "id": 8,
+        "naam": "Nieuw filiaal",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/8"
+          }
+        }
+      },
+      {
+        "id": 9,
+        "naam": "Nieuw filiaal",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/9"
+          }
+        }
+      },
+      {
+        "id": 10,
+        "naam": "Nieuw filiaal",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/10"
+          }
+        }
+      },
+      {
+        "id": 11,
+        "naam": "Testjeuh",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/filialen/11"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://localhost:8080/filialen"
+    }
+  }
+}
